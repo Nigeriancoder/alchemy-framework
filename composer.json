@@ -1,0 +1,18 @@
+{
+    "name": "nigeriancoder/alchemy",
+    "description": "MVC Farmework for Patricia",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nigeriancoder",
+            "email": "gbemilanre@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
